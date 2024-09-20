@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(121, 199, 151);
+   
+    /* dette endrer bakrundsfargen */
+}
+
+h1 {
+   
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    /* den første plasserer teksten i midten og den under endrer fonten */
+}
+h2 {
+    text-align: center;
+/* dette plasserer teksten i midten */
+}
+
+h4{
+    text-align: right;
+
+}
+img{
+    
+}
+
